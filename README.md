@@ -103,12 +103,6 @@ The Engine vs Engine mode is designed to:
 3. Enter moves using the correct format (`e2e4`)
 4. Use hints in Human vs Human or Human vs Engine mode:
 
-```text
-hint
-Enter depth: 4
-```
-
----
 
 ## Future Improvements
 
